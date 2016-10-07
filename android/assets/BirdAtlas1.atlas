@@ -1,0 +1,19 @@
+
+BirdAtlas1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame-1
+  rotate: false
+  xy: 1, 1
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+frame-2
+  rotate: false
+  xy: 103, 1
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
